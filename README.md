@@ -35,3 +35,4 @@
 # Daily puzzles
 [Check the puzzles here!](https://adventofcode.com/2022)
 * Day 1 (December 1, 2022): [Code](https://github.com/laumtnezg/AOC_22/blob/main/src/day1.py)
+* Day 2 (December 2, 2022): [Code](https://github.com/laumtnezg/AOC_22/blob/main/src/day2.py)
