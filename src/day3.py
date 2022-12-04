@@ -1,7 +1,6 @@
 import sys
 import string
-#fname = sys.argv[1]
-fname = "/Users/lmartinezg/Documents/CNIO/AOC_22/data/day3.txt"
+fname = sys.argv[1]
 score = 1
 alphabet = {}
 bags = {}
